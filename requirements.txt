@@ -1,0 +1,7 @@
+httpx
+fastmcp 
+dotenv
+google-adk
+google-adk[eval]
+beautifulsoup4
+google-generativeai
